@@ -1,0 +1,50 @@
+{
+	"offline":{
+		"host":false,
+  		"base": "http://localhost:4321/offline.html"
+	},
+	"local":{
+  	"host": "http://localhost:4321/signon.html",
+  	"base": "http://localhost:4321/index.html"
+	},
+  "dev1": {
+    "host": "https://wppdev1.kaiserpermanente.org/health/care/signon",
+    "base": "https://wppdev1.kaiserpermanente.org/message-center"
+  },
+  "dev2": {
+    "host": "https://wppdev2.kaiserpermanente.org/health/care/signon",
+    "base": "https://wppdev2.kaiserpermanente.org/message-center"
+  },
+  "dev3": {
+    "host": "https://wppdev3.kaiserpermanente.org/health/care/signon",
+    "base": "https://wppdev3.kaiserpermanente.org/message-center"
+  },
+  "dev4": {
+    "host": "https://wppdev4.kaiserpermanente.org/health/care/signon",
+    "base": "https://wppdev4.kaiserpermanente.org/message-center"
+  },
+  "hint1": {
+    "host": "https://hint1.kaiserpermanente.org/health/care/signon",
+    "base": "https://hint1.kaiserpermanente.org/message-center"
+  },
+  "hint2": {
+    "host": "https://hint2.kaiserpermanente.org/health/care/signon",
+    "base": "https://hint2.kaiserpermanente.org/message-center"
+  },
+  "hint3": {
+    "host": "https://hint3.kaiserpermanente.org/health/care/signon",
+    "base": "https://hint3.kaiserpermanente.org/message-center"
+  },
+  "hqa": {
+    "host": "https://hqa.kaiserpermanente.org/health/care/signon",
+    "base": "https://hqa.kaiserpermanente.org/message-center"
+  },
+  "qab": {
+    "host": "https://hqab.kaiserpermanente.org/health/care/signon",
+    "base": "https://hqab.kaiserpermanente.org/message-center"
+  },
+  "hqac": {
+    "host": "https://hqac.kaiserpermanente.org/health/care/signon",
+    "base": "https://hqac.kaiserpermanente.org/message-center"
+  }
+}
