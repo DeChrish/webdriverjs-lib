@@ -2,7 +2,7 @@
   "name": "webdriverjs-lib",
   "version": "0.0.1",
   "repository": "",
-  "main" :"webdriverjs-lib.js",
+  "main" :"webdriverjs-lib/env.js",
   "dependencies": {
     "chai": "^2.1.0",
     "grunt": "~0.4.1",
