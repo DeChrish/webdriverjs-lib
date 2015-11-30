@@ -1,8 +1,9 @@
 
 
 var _ = require("underscore-node");
-var users = require('../data/users.json').users;
+//var users = require('../data/users.json').users;
 
+var user = {"userid":"col622510010", "password":"password7"};
 module.exports = {
   findByTag: function() {
     var tags = Array.prototype.slice.call(arguments);
