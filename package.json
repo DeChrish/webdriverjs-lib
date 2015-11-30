@@ -16,5 +16,9 @@
     "shelljs": "^0.3.0",
     "underscore-node": "~0.1.2",
     "winston": "^2.1.0"
+  },
+  "peerDependencies": {
+    "selenium-webdriver": "2.47.0",
+    "chai": "^2.1.0"
   }
 }

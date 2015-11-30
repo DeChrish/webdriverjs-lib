@@ -19,6 +19,7 @@ chai.config.truncateThreshold = 0;
 var driver;
 
 module.exports = {
+  test:test,
   where: where,
   config: env,
   users: users,
